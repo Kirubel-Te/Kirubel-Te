@@ -1,8 +1,11 @@
 👨‍💻 About Me
 
 🌱 Currently advancing my skills in Full-Stack Web Development with a focus on React.js.
+
 🤝 Actively seeking collaboration opportunities on React-based projects.
+
 🎓 Pursuing a Bachelor’s degree in Computer Science at Addis Ababa University.
+
 ✨ Fun Fact: I’m passionate about turning ideas into functional and innovative web applications!
 
 
